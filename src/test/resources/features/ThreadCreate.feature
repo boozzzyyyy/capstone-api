@@ -1,5 +1,5 @@
 Feature: ThreadCreate
-
+gh
   Scenario: POST - Thread | Create New Data
     Given Get token from login | ThreadCreate
     When Set method POST at api endpoints | ThreadCreate
